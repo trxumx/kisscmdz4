@@ -1,0 +1,21 @@
+<program>
+    <instruction>
+        <command>LOAD_CONST</command>
+        <A>116</A>
+        <B>297</B>
+    </instruction>
+    <instruction>
+        <command>READ_MEMORY</command>
+        <A>92</A>
+        <B>676</B>
+    </instruction>
+    <instruction>
+        <command>WRITE_MEMORY</command>
+        <A>70</A>
+    </instruction>
+    <instruction>
+        <command>MOD_OPERATION</command>
+        <A>8</A>
+        <B>161</B>
+    </instruction>
+</program>
