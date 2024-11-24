@@ -40,9 +40,9 @@
 Ассемблер преобразует инструкции, описанные в XML, в бинарный файл. Для этого выполните команду:
 
 ```bash
-python assembler.py test_input.xml test_output.bin test_log.xml
+python assembler.py input.xml test_output.bin test_log.xml
 ```
-test_input.xml — входной XML файл с инструкциями.
+input.xml — входной XML файл с инструкциями.
 test_output.bin — бинарный файл, который будет сгенерирован.
 test_log.xml — файл лога, где будут храниться ассемблированные инструкции.
 3. Запуск интерпретатора
