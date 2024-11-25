@@ -19,3 +19,5 @@ coverage run --source=test_assembler -m test_assembler
 ```bash
 coverage run --source=test_mod_operation -m test_mod_operation 
 ```
+Тестовая программа поэлементно делит два вектора: A[5, 10, 20, 50] и B[3, 3, 7, 9]
+Результат деления: B[3,3,7,9] записан в памяти УВМ (в .bin файле) и не предусмотрен в качестве вывода программы
