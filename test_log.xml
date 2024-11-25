@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<log><instruction><key>LOAD_CONST</key><value>A=116, B=297</value></instruction><instruction><key>READ_MEMORY</key><value>A=92, B=676</value></instruction><instruction><key>WRITE_MEMORY</key><value>A=70</value></instruction><instruction><key>MOD_OPERATION</key><value>A=8, B=161</value></instruction></log>
